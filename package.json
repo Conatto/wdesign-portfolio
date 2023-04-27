@@ -1,7 +1,7 @@
 {
-  "name": "server",
+  "name": "wdesign",
   "version": "1.0.0",
-  "description": "Portfólio com servidor node",
+  "description": "Exemplo de portfólio para web design com servidor node",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js"
