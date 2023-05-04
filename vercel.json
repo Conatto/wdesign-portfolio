@@ -1,0 +1,6 @@
+{
+    "routes": [
+        { "handler": "filesystem" },
+        { "src": "/.*", "dest": "/" }
+    ]
+}
