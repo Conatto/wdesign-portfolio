@@ -1,6 +1,5 @@
 {
     "routes": [
-        { "handler": "filesystem" },
-        { "src": "/.*", "dest": "/index.html" }
+        { "src": "/.*", "dest": "/" }
     ]
 }
