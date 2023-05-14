@@ -3,7 +3,7 @@ const app = express();
 
 app.use(express.static(__dirname + "/"));
 
-app.get("/*", (request, response) => {
+app.get("/", (request, response) => {
     response.sendFile(__dirname + "/index.html");
 });
 
