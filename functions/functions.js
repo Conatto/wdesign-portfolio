@@ -4,18 +4,12 @@ window.onload = function() {
     bannerAnimation();
     observerTo('animation-children', fadeObserver);
 
-    document.getElementById("yearNow").innerHTML = getYearNow();
     const popovers = document.querySelectorAll('.popover-gallery');
     if (popovers.length > 0) { 
         popovers.forEach((popover, index) => {
             tippy(popover, popoverList[index])
         });
     }
-}
-
-const getYearNow = () => { 
-    const date = new Date(); 
-    return date.getFullYear();
 }
 
 const fadeObserver = new IntersectionObserver(entries => {

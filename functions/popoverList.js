@@ -1,72 +1,72 @@
 const popoverList = [
     {
-        content: "Morbi erat lectus, tincidunt vitae nisl nec, imperdiet porta odio. Maecenas ut aliquet lacus. Nulla iaculis, nulla congue fringilla dapibus, lectus risus pretium ligula, vitae tristique est nulla eu risus. Sed ut tellus risus. Nam aliquam leo ac dolor vestibulum, vitae molestie urna elementum. Aliquam eu dignissim felis. Duis auctor sollicitudin metus sed finibus.",
+        content: "Mussum Ipsum, cacilds vidis litro abertis. Aenean aliquam molestie leo, vitae iaculis nisl. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis! Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis.Quem num gosta di mim que vai caçá sua turmis!",
         placement: "bottom",
         arrow: true,
         animation: "fade",
         trigger: "click"   
     },{
-        content: "Duis purus est, commodo eu auctor non, interdum sed tellus. Fusce eget augue velit. Donec cursus in erat vitae bibendum. Cras ultrices libero ac quam fermentum venenatis. Praesent euismod sed arcu vel ultrices. Vestibulum scelerisque porttitor consequat. Proin sed nunc quis felis porttitor blandit at id risus.",
+        content: "Mussum Ipsum, cacilds vidis litro abertis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis.Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio.Atirei o pau no gatis, per gatis num morreus.Mé faiz elementum girarzis, nisi eros vermeio.",
         placement: "bottom",
         arrow: true,
         animation: "fade",
         trigger: "click"
     },{
-        content: "Nulla elementum enim magna, at congue magna blandit eget. Etiam ut ex feugiat, hendrerit dolor non, suscipit urna. Curabitur gravida dui a ipsum tincidunt cursus. Nullam quis turpis sed eros efficitur condimentum. Duis ut libero et quam consequat euismod.",
+        content: "Mussum Ipsum, cacilds vidis litro abertis. Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis.Quem num gosta di mim que vai caçá sua turmis!Aenean aliquam molestie leo, vitae iaculis nisl.Cevadis im ampola pa arma uma pindureta.",
         placement: "top",
         arrow: true,
         animation: "fade",
         trigger: "click"
     },{
-        content: "Fusce sed diam maximus, efficitur eros vel, dignissim neque. Aliquam erat volutpat. Aenean aliquam id ipsum eget facilisis. Phasellus ut sem metus. Phasellus convallis scelerisque cursus. Mauris eget vestibulum arcu.",
+        content: "Mussum Ipsum, cacilds vidis litro abertis. Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis.Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose.Admodum accumsan disputationi eu sit. Vide electram sadipscing et per.Não sou faixa preta cumpadi, sou preto inteiris, inteiris.",
         placement: "top",
         arrow: true,
         animation: "fade",
         trigger: "click"
     },{
-        content: "Proin finibus ultrices dui, a consequat ligula facilisis ut. Suspendisse viverra aliquet dolor eu congue. Curabitur luctus vestibulum ligula a dictum. Nunc eu eleifend eros. Nulla nibh est, luctus at enim at, molestie rutrum mi.",
+        content: "Mussum Ipsum, cacilds vidis litro abertis. Casamentiss faiz malandris se pirulitá.Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis.Quem num gosta di mé, boa gentis num é.Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis.",
         placement: "top",
         arrow: true,
         animation: "fade",
         trigger: "click"
     },{
-        content: "Phasellus ut congue mi. Duis rhoncus aliquam dui, a volutpat tellus commodo nec. Nam ullamcorper quis diam ut tristique. Etiam vitae varius arcu, id fermentum neque. Cras enim mi, rutrum sit amet nulla id, ultricies faucibus orci.",
+        content: "Mussum Ipsum, cacilds vidis litro abertis. Manduma pindureta quium dia nois paga.Vehicula non. Ut sed ex eros. Vivamus sit amet nibh non tellus tristique interdum.Cevadis im ampola pa arma uma pindureta.Delegadis gente finis, bibendum egestas augue arcu ut est.",
         placement: "bottom",
         arrow: true,
         animation: "fade",
         trigger: "click"
     },{
-        content: "Donec id risus felis. Quisque at erat eu felis porttitor vulputate. Curabitur bibendum facilisis velit, ut pharetra nulla varius ac. Etiam sed consequat enim, eu interdum lectus. Mauris imperdiet, augue ac porta finibus, tortor ante sollicitudin ante, accumsan maximus urna leo sed mi.",
+        content: "Mussum Ipsum, cacilds vidis litro abertis. Delegadis gente finis, bibendum egestas augue arcu ut est.In elementis mé pra quem é amistosis quis leo.Manduma pindureta quium dia nois paga.Mauris nec dolor in eros commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl.",
         placement: "top",
         arrow: true,
         animation: "fade",
         trigger: "click"
     },{
-        content: "In hac habitasse platea dictumst. Integer consequat, ante ac elementum commodo, dui quam consequat tortor, non ullamcorper magna lectus vel velit. Donec vitae urna dolor.",
+        content: "Mussum Ipsum, cacilds vidis litro abertis. Quem manda na minha terra sou euzis!Per aumento de cachacis, eu reclamis.Pra lá , depois divoltis porris, paradis.Aenean aliquam molestie leo, vitae iaculis nisl.",
         placement: "top",
         arrow: true,
         animation: "fade",
         trigger: "click"
     },{
-        content: "Curabitur commodo elementum nulla sed dapibus. Ut aliquet ullamcorper aliquet. Pellentesque ut commodo ligula. Proin ac diam vel risus interdum feugiat nec non erat. Quisque ipsum lorem, cursus vel ligula eget, suscipit laoreet libero. Vivamus quis justo dapibus, sollicitudin ex id, condimentum lacus.",
+        content: "Mussum Ipsum, cacilds vidis litro abertis. Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose.Admodum accumsan disputationi eu sit. Vide electram sadipscing et per.Não sou faixa preta cumpadi, sou preto inteiris, inteiris.Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi.",
         placement: "top",
         arrow: true,
         animation: "fade",
         trigger: "click"
     },{
-        content: "Maecenas dolor velit, commodo at gravida eget, pretium quis justo. Cras vestibulum purus et auctor eleifend. Nam convallis fringilla odio, ac pulvinar ligula interdum a. Donec sed scelerisque lectus. In hac habitasse platea dictumst. Fusce hendrerit fermentum sem vitae dignissim.",
+        content: "Mussum Ipsum, cacilds vidis litro abertis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi.Aenean aliquam molestie leo, vitae iaculis nisl.In elementis mé pra quem é amistosis quis leo.Suco de cevadiss deixa as pessoas mais interessantis.",
         placement: "top",
         arrow: true,
         animation: "fade",
         trigger: "click"
     },{
-        content: "Duis sed metus nec elit placerat elementum facilisis sed nulla. Nullam elementum lorem lectus, vel ornare leo fringilla vitae. Suspendisse lacinia metus ac elit pulvinar lacinia. Sed eu nisl vitae libero dictum aliquet.",
+        content: "Mussum Ipsum, cacilds vidis litro abertis. Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.Não sou faixa preta cumpadi, sou preto inteiris, inteiris.Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio.Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis.",
         placement: "bottom",
         arrow: true,
         animation: "fade",
         trigger: "click"
     },{
-        content: "Nulla rutrum dui mattis, ullamcorper sapien vel, venenatis dui. In volutpat luctus quam. Integer fringilla vitae tortor a fermentum. Nunc tincidunt lacinia mauris, at pellentesque velit sodales vel. Quisque convallis gravida volutpat. Vivamus ultricies id orci sed vulputate. Phasellus placerat bibendum nibh a gravida.",
+        content: "Mussum Ipsum, cacilds vidis litro abertis. Manduma pindureta quium dia nois paga.Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose.Cevadis im ampola pa arma uma pindureta.Paisis, filhis, espiritis santis.",
         placement: "top",
         arrow: true,
         animation: "fade",
