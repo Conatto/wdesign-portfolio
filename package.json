@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "description": "Exemplo de portfólio para web design",
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "sass": "npx sass static/css/scss/custom.scss:static/css/style.css"
   },
   "author": "Conatto",
   "license": "ISC",
   "keywords": [],
   "devDependencies": {
+    "bootstrap": "^5.2.3",
     "express": "^4.18.2",
     "nodemon": "^2.0.22",
     "sass": "^1.62.1"
