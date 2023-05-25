@@ -6,6 +6,12 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
+> ## Sobre o Projeto:
+>
+> Um exemplo de Landing Page para portfólio de Web Design. Interface responsiva, apresentação animada com JavaScript, e uma galeria de imagens com popovers individuais para legendas.
+>
+> [Clique aqui e veja o projeto.](https://conatto.github.io/wdesign-portfolio)
+
 > ## Licença:
 > 
 > Todos os direitos reservados.
